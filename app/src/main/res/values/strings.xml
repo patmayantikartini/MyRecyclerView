@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyRecyclerView</string>
+    <string name="heroes_name">Nama Bunga</string>
+    <string name="detail">Detail</string>
+    <string name="list">List</string>
+    <string name="user">User</string>
+    <string name="deskripsi">Melati merupakan tanaman bunga hias berupa perdu berbatang tegak yang hidup menahun. Melati merupakan genus dari semak dan tanaman merambat dalam keluarga zaitun (Oleaceae). Terdiri dari sekitar 200 spesies tumbuhan asli daerah beriklim tropis dan hangat dari Eurasia, Australasia dan Oseania, melati secara luas dibudidayakan untuk aroma khas bunganya yang harum. Di Indonesia, salah satu jenis melati telah dipilih menjadi "puspa bangsa" atau bunga simbol nasional yaitu melati putih (Jasminum sambac), karena bunga ini melambangkan kesucian dan kemurnian, serta dikaitkan dengan berbagai tradisi dari banyak suku di negara ini. Bunga ini merupakan bagian yang tidak terpisahkan dari hiasan rambut pengantin perempuan dalam upacara perkawinan berbagai suku di Indonesia, terutama suku Jawa dan Sunda. Jenis lain yang juga populer adalah melati gambir (J. officinale). Di Indonesia nama melati dikenal oleh masyarakat di seluruh wilayah Nusantara. Nama-nama daerah untuk melati adalah Menuh (Bali), Meulu atau Riwat (Aceh),[1] Menyuru (Banda), Melur (Gayo dan Batak Karo), Manduru (Menado), Mundu (Bima dan Sumbawa) dan Manyora (Timor), Melati Salam (UMI), Malete (Madura) serta Beruq-beruq(Mandar).</string>
+    <string name="nama_ilmiah">Nama Ilmiah</string>
+    <string name="family">Family</string>
+    <string name="ordo">Ordo</string>
+    <string name="kingdom">Kingdom</string>
+</resources>
